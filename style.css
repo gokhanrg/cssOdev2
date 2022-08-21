@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    height: auto;       
+}
+
+.img{
+    display: block;
+    margin: auto;
+    padding: auto;
+}
+table{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    
+}
+.search{
+    width: 1200px;
+    height: 80px;
+    background-color: #eeeeee;
+    margin: auto;
+    padding: auto;
+}
+
+.cards{
+    width: 1200px;
+    height: 80px;
+    padding: 2px;
+    margin: auto;
+    display: flex;
+}
+
+.card1{
+    width: 476px;
+    height: 80px;
+    background-color:#7ee5da;
+    text-align: center;
+    margin: auto;
+    padding: 1px;
+    vertical-align: middle;
+}
+
+.card2{
+    width: 236px;
+    padding: 1px;
+    height: 80px;
+    background-color: #70ccc2;
+    text-align: center;
+    margin: auto;
+
+}
+
+.card3{
+    width: 476px;
+    height: 80px;
+    padding: 1px;
+    background-color: #7ee5da;
+    text-align: center;
+    margin: auto;
+}
+
+#copyright{
+    font-size: smaller;
+    text-align: center;
+    margin: 17px;
+}
